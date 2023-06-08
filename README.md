@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Moorthy 
+### Hi There Friends👋 I'm Moorthy 
 
 <!--
 **MOORTHY2022/MOORTHY2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
