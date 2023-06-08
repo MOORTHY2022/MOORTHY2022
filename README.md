@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Moorthy and my [YouTube Channel](http://www.youtube.com/@moorthyr27) 
+### Hi there 👋 I'm Moorthy 
 
 <!--
 **MOORTHY2022/MOORTHY2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
