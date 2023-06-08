@@ -1,1 +1,2 @@
-
+## 👋 Hi there I'm Moorthy! 
+**I'm a passionate frontend developer eager to learn and grow with the community. As a fresher, I bring a strong desire to contribute, collaborate, and stay updated with the latest trends. With my dedication, enthusiasm, and commitment to continuous improvement, I aim to make a positive impact and become a valuable asset in the tech industry. Let's connect and create something amazing together!**
